@@ -1,0 +1,23 @@
+| Country      | Intermag | IOP | DPG | Total |
+|--------------+----------+-----+-----+-------|
+| France       |        6 |     |     | 6     |
+| Germany      |        5 |     |  18 | 23    |
+| Italy        |        1 |     |     | 1     |
+| South Korea  |        3 |     |     | 3     |
+| Ireland      |        5 |     |     | 5     |
+| India        |        1 |     |     | 1     |
+| UK           |        4 |  18 |     | 22    |
+| Luxembourg   |        1 |     |     | 1     |
+| Japan        |        1 |     |     | 1     |
+| Saudi Arabia |        1 |     |     | 1     |
+| USA          |        9 |     |     | 9     |
+| China        |        1 |   1 |     | 2     |
+| Poland       |        4 |     |     | 4     |
+| Unknown      |        2 |     |     | 2     |
+| Oman         |        1 |     |     | 1     |
+| Singapore    |        1 |     |     | 1     |
+| Indonesia    |        1 |     |     | 1     |
+| Russia       |        1 |     |     | 1     |
+| Spain        |          |   1 |     | 1     |
+| Switzerland  |          |     |   1 | 1     |
+| Belgium      |          |     |   1 | 1     |
